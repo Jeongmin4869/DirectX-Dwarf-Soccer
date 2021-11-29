@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3DGame", "D3DGame.vcxproj", "{9B9AB2BD-4425-4655-B533-A7FFCD1B103D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9AB2BD-4425-4655-B533-A7FFCD1B103D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B9AB2BD-4425-4655-B533-A7FFCD1B103D}.Debug|Win32.Build.0 = Debug|Win32
+		{9B9AB2BD-4425-4655-B533-A7FFCD1B103D}.Release|Win32.ActiveCfg = Release|Win32
+		{9B9AB2BD-4425-4655-B533-A7FFCD1B103D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA1DDDA-D367-4633-9D7B-85E35B43AC03}
+	EndGlobalSection
+EndGlobal
